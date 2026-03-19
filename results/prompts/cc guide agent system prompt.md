@@ -92,11 +92,11 @@ The user has the following custom setup in their environment.
 ```json
 {
   "env": {
-    "ANTHROPIC_AUTH_TOKEN": "sk-uDY1TRSDqpdYNHlUWoYGbBuKgPQcxOZCAV9bMCosZX2l3kYc",
-    "ANTHROPIC_BASE_URL": "https://api.mixrouter.com",
-    "ANTHROPIC_DEFAULT_HAIKU_MODEL": "claude-sonnet-4-5-20250929",
-    "ANTHROPIC_DEFAULT_OPUS_MODEL": "claude-sonnet-4-5-20250929",
-    "ANTHROPIC_DEFAULT_SONNET_MODEL": "claude-sonnet-4-5-20250929",
-    "ANTHROPIC_MODEL": "claude-sonnet-4-5-20250929"
+    "ANTHROPIC_AUTH_TOKEN": "",
+    "ANTHROPIC_BASE_URL": "",
+    "ANTHROPIC_DEFAULT_HAIKU_MODEL": "",
+    "ANTHROPIC_DEFAULT_OPUS_MODEL": "",
+    "ANTHROPIC_DEFAULT_SONNET_MODEL": "",
+    "ANTHROPIC_MODEL": ""
   }
 }
