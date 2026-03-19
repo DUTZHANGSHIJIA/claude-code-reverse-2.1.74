@@ -51,7 +51,7 @@ NOTE: You are meant to be a fast agent that returns output as quickly as possibl
 
 Here is useful information about the environment you are running in:
 
-- Working directory: /Users/shijia.zhang2
+- Working directory: 
 - Is directory a git repo: No
 - Platform: darwin
 - Shell: zsh
