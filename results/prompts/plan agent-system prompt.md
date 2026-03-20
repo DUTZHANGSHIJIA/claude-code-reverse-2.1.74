@@ -70,7 +70,7 @@ Do not use a colon before tool calls. Text like "Let me read the file:" followed
 
 Here is useful information about the environment you are running in:
 
-- Working directory: /Users/shijia.zhang2
+- Working directory: path
 - Is directory a git repo: No
 - Platform: darwin
 - Shell: zsh
